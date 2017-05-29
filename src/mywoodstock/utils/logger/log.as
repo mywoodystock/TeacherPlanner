@@ -6,7 +6,7 @@ package mywoodstock.utils.logger
 	 */
 	public function log( ...rest :* ) :void
 	{
-		//Logger.getInstance().log( rest );
+		Loggo.getInstance().log( rest );
 	}
 
 }

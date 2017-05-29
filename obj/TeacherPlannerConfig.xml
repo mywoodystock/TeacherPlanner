@@ -32,17 +32,17 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>E:\Projects\TeacherPlanner\src</path-element>
-      <path-element>E:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
+      <path-element>C:\Users\Adam\Documents\projects\TeacherPlanner\src</path-element>
+      <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>E:\Projects\TeacherPlanner\lib\PureMVC_AS3_2_0_4.swc</path-element>
-      <path-element>E:\Projects\TeacherPlanner\lib\starling.swc</path-element>
-      <path-element>E:\Projects\TeacherPlanner\lib\feathers.swc</path-element>
+      <path-element>C:\Users\Adam\Documents\projects\TeacherPlanner\lib\PureMVC_AS3_2_0_4.swc</path-element>
+      <path-element>C:\Users\Adam\Documents\projects\TeacherPlanner\lib\starling.swc</path-element>
+      <path-element>C:\Users\Adam\Documents\projects\TeacherPlanner\lib\feathers.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>E:\Projects\TeacherPlanner\src\mywoodstock\tp\TeacherPlannerApp.as</path-element>
+    <path-element>C:\Users\Adam\Documents\projects\TeacherPlanner\src\mywoodstock\tp\TeacherPlannerApp.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>

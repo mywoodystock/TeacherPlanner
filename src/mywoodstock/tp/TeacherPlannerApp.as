@@ -17,7 +17,7 @@ package mywoodstock.tp
 		
 		public function TeacherPlannerApp():void 
 		{
-			
+			trace("TeacherPlannerApp constructor!")
 			_facade = TeacherPlannerFacade.getInstance();
 			_facade.startApp( this );
 
